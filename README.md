@@ -33,3 +33,9 @@ My name is Dominika Bołtuć. I have a master's degree in Sports Management with
   - SQL Foundations, Udemy
   - w3Schools SQL Online Web Tutorial
   - Maraton Kodowania, GoIT Polska
+
+## Technical books I read
+  - [Testowanie oprogramowania. Podręcznik dla początkujących](https://helion.pl/ksiazki/testowanie-oprogramowania-podrecznik-dla-poczatkujacych-rafal-pawlak,szteop.htm?_ga=NC.1384359092-1587824560&abpar1=desktop&abpar2=236563.1746781.&abpcid=41&abpid=11&bb_coid=3069019&bb_id=3#format/d)
+  - [Zawód Tester](https://lubimyczytac.pl/ksiazka/291227/zawod-tester)
+  - [Testowanie oprogramowania](https://helion.pl/ksiazki/testowanie-oprogramowania-podrecznik-dla-poczatkujacych-rafal-pawlak,szteop.htm?_ga=NC.1384359092-1587824560&abpar1=desktop&abpar2=236563.1746781.&abpcid=41&abpid=11&bb_coid=3069019&bb_id=3#format/d)
+  - [Certyfikowany Tester ISTQB. Poziom podstawowy](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispv.htm#format/d)
