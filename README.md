@@ -31,7 +31,7 @@ My name is Dominika Bołtuć. I have a master's degree in Sports Management with
   - Maraton QA, GoIT Polska
   - PYTON OD PODSTAW - REST API, Udemy
   - SQL Foundations, Udemy
-  - w3Schools SQL Online Web Tutorial
+  - SQL Online Web Tutorial, w3Schools
   - Maraton Kodowania, GoIT Polska
 
 ## Technical books I read
@@ -39,3 +39,15 @@ My name is Dominika Bołtuć. I have a master's degree in Sports Management with
   - [Zawód Tester](https://lubimyczytac.pl/ksiazka/291227/zawod-tester)
   - [Testowanie oprogramowania](https://helion.pl/ksiazki/testowanie-oprogramowania-podrecznik-dla-poczatkujacych-rafal-pawlak,szteop.htm?_ga=NC.1384359092-1587824560&abpar1=desktop&abpar2=236563.1746781.&abpcid=41&abpid=11&bb_coid=3069019&bb_id=3#format/d)
   - [Certyfikowany Tester ISTQB. Poziom podstawowy](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispv.htm#format/d)
+
+## Blogs I read
+  - [testerzy.pl](https://testerzy.pl)
+  - [testerka.pl](https://testerka.pl)
+  - [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
+  - [toniebug.pl](https://www.toniebug.pl/)
+
+## Facebook Groups for testing Knowledge
+  - Girls Who Tests
+  - Tester oprogramowania - wsparcie na starcie
+  - Testowanie oprogramowania
+  - Gildia Testerów
