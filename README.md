@@ -15,7 +15,7 @@ My name is Dominika Bołtuć. I have a master's degree in Sports Management with
   - API Testing
 
 ## Tools I used
-  -[GitHub](https://github.com) - Platform for code hosting
+  - [GitHub](https://github.com) - Platform for code hosting
   - [Postman](https://www.postman.com/) - Tool for REST API
   - [Jira](https://www.atlassian.com/software/jira0), [Trello](https://trello.com/) - Issue tracking and project management tool for developers
   - [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi?hl=pl) - Exploratory testing assistant for Chrome and Firefox
