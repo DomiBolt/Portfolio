@@ -25,3 +25,11 @@ My name is Dominika Bołtuć. I have a master's degree in Sports Management with
   - [Xmind](https://www.xmind.net/), [Mind Meister](https://www.mindmeister.com/) - Mind mapping softwares
   - [draw.io](https://app.diagrams.net/) - Flowchart maker and online diagram software
   - [BlazeMeter](https://www.blazemeter.com/) - Load testing platform
+
+## Courses
+  - Quality Assurance Engineer, GoIT Polska
+  - Maraton QA, GoIT Polska
+  - PYTON OD PODSTAW - REST API, Udemy
+  - SQL Foundations, Udemy
+  - w3Schools SQL Online Web Tutorial
+  - Maraton Kodowania, GoIT Polska
