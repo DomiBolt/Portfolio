@@ -51,3 +51,7 @@ My name is Dominika Bołtuć. I have a master's degree in Sports Management with
   - Tester oprogramowania - wsparcie na starcie
   - Testowanie oprogramowania
   - Gildia Testerów
+  - Tester oprogramowania - jak nimm zostać?
+
+## My Projects
+  - Individual Project - Website Testing [x-com.pl](https://www.x-kom.pl)
