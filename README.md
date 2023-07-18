@@ -54,6 +54,8 @@ My name is Dominika Bołtuć. I have a master's degree in Sports Management with
   - Tester oprogramowania - jak nimm zostać?
 
 ## My Projects
+  - Individual Project - [Kapusta Website Testing](https://kapusta-qa.netlify.app)
+    - [Test Cases, Results, Bug Reports](https://docs.google.com/document/d/1cYgVX2G2Utm9qDLyZrJQj_cOomUQmouM8U6GCtUb2ek/edit?usp=sharing)
   - Individual Project - Website Testing via TestRail [x-com.pl](https://www.x-kom.pl)
     - [Testowanie formularza rejestracyjnego - raport]([Testowanie formularza rejestracyjnego.pdf](https://github.com/DomiBolt/Portfolio/files/12083172/Testowanie.formularza.rejestracyjnego.pdf)
 )
