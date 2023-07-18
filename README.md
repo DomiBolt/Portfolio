@@ -58,4 +58,6 @@ My name is Dominika Bołtuć. I have a master's degree in Sports Management with
     - [Test Cases, Bug Reports, Results](https://docs.google.com/document/d/1cYgVX2G2Utm9qDLyZrJQj_cOomUQmouM8U6GCtUb2ek/edit?usp=sharing)
   - Individual Project - Website Testing via TestRail [x-com.pl](https://www.x-kom.pl)
     - [Testowanie formularza rejestracyjnego - raport](https://1drv.ms/b/s!AjAZA9Jy0BEdg61AODGoLN8MVqMNRA?e=31X4hp)
-    - [Logowanie się]
+    - [Testowanie logowania się - raport](https://github.com/DomiBolt/Portfolio/files/12085923/Testowanie.logowania.sie.pdf)
+
+
