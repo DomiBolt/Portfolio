@@ -14,7 +14,7 @@ My name is Dominika Bołtuć. I have a master's degree in Sports Management with
   - HTML/CSS
   - API Testing
 
-## Tools I used
+## Tools I use
   - [GitHub](https://github.com) - Platform for code hosting
   - [Postman](https://www.postman.com/) - Tool for REST API
   - [Jira](https://www.atlassian.com/software/jira0), [Trello](https://trello.com/) - Issue tracking and project management tool for developers
