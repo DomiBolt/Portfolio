@@ -55,3 +55,4 @@ My name is Dominika Bołtuć. I have a master's degree in Sports Management with
 
 ## My Projects
   - Individual Project - Website Testing [x-com.pl](https://www.x-kom.pl)
+        - Testowanie formularza rejestracyjnego [x-com.pl](https://dominika2023.testrail.io/index.php?/runs/view/2&group_by=cases:section_id&group_order=asc)
