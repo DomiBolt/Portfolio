@@ -27,7 +27,7 @@ My name is Dominika Bołtuć. I have a master's degree in Sports Management with
   - [BlazeMeter](https://www.blazemeter.com/) - Load testing platform
 
 ## Courses
-  - Quality Assurance Engineer, GoIT Polska
+  - [Quality Assurance Engineer, GoIT Polska](<img width="392" alt="image" src="https://github.com/DomiBolt/Portfolio/assets/138138677/4650f7d7-7ff2-4ac7-8998-3d4317215edc">)
   - Maraton QA, GoIT Polska
   - PYTON OD PODSTAW - REST API, Udemy
   - SQL Foundations, Udemy
