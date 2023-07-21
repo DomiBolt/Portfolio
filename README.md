@@ -59,5 +59,6 @@ My name is Dominika Bołtuć. I have a master's degree in Sports Management with
   - Individual Project - Website Testing via TestRail [x-com.pl](https://www.x-kom.pl)
     - [Testowanie formularza rejestracyjnego - raport](https://github.com/DomiBolt/Portfolio/files/12130503/Testowanie.formularza.rejestracyjego.pdf)
     - [Testowanie logowania się - raport](https://github.com/DomiBolt/Portfolio/files/12130701/Testowanie.logowania.sie.pdf)
+    - [Testowanie kupownia produktu - raport](https://github.com/DomiBolt/Portfolio/files/12131124/Testowanie.kupowania.produktu.pdf)
 
 
