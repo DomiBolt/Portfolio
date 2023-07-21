@@ -61,6 +61,6 @@ My name is Dominika Bołtuć. I have a master's degree in Sports Management with
     - [Testowanie logowania się - raport](https://github.com/DomiBolt/Portfolio/files/12130701/Testowanie.logowania.sie.pdf)
     - [Testowanie kupownia produktu - raport](https://github.com/DomiBolt/Portfolio/files/12131124/Testowanie.kupowania.produktu.pdf)
     - [Testowanie usuwania konta - raport](
-    - [Testowanie wydajności strony x-ko.pl za pomocą DevTools](https://docs.google.com/document/d/1H5itOeVPFei8rv5HK1lvqlCmEm9AHvkeihhMZzo_YX4/edit?usp=sharing)
+    - [Testowanie wydajności strony x-kom.pl za pomocą DevTools](https://docs.google.com/document/d/1H5itOeVPFei8rv5HK1lvqlCmEm9AHvkeihhMZzo_YX4/edit?usp=sharing)
 
 
