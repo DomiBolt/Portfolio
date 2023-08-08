@@ -53,7 +53,7 @@ My name is Dominika Bołtuć. I have a master's degree in Sports Management with
   - Gildia Testerów
   - Tester oprogramowania - jak nim zostać?
 
-## My Projects
+## My Novice Projects
   - Individual Project - Website Testing [Kapusta](https://kapusta-qa.netlify.app)
     - [Test Cases, Bug Reports, Results](https://docs.google.com/document/d/1cYgVX2G2Utm9qDLyZrJQj_cOomUQmouM8U6GCtUb2ek/edit?usp=sharing)
   - Individual Project - Website Testing via TestRail [x-com.pl](https://www.x-kom.pl)
