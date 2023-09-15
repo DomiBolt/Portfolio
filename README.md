@@ -1,6 +1,6 @@
 # Portfolio
 
-### About Me
+## About Me
 My name is Dominika Bołtuć. I have a master's degree in Sports Management with a specialization in Safety of Mass Events. I graduated from the Academy of Physical Education and Sport in Gdańsk, Poland. My goal is to develop testing knowlage and technical skills. I'm eager to learn new things and I would like to expand my knowledge in the field. On this site I would like to share my all gained experience from personal studies and researches I've made.
 
 ### Tech skills
