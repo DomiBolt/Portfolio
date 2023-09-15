@@ -19,10 +19,6 @@ My name is Dominika Bołtuć. I have a master's degree in Sports Management with
   3. For work with REST API: [Postman](https://www.postman.com/)
   4. For database management: [DBeaver](https://dbeaver.io)
 
-
-  - [Xmind](https://www.xmind.net/), [Mind Meister](https://www.mindmeister.com/) - Mind mapping softwares
-
-
 ### Courses
   - [Quality Assurance Engineer](https://1drv.ms/b/s!AjAZA9Jy0BEdg4EZCWc8Jw4SD3L5Ig?e=SwnfqN)
   - Maraton QA, GoIT Polska
