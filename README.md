@@ -46,7 +46,7 @@ My name is Dominika Bołtuć. I have a master's degree in Sports Management with
   - [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
   - [toniebug.pl](https://www.toniebug.pl/)
 
-## Facebook Groups for testing Knowledge
+## Facebook Groups for Testing Knowledge
   - Girls Who Tests
   - Tester oprogramowania - wsparcie na starcie
   - Testowanie oprogramowania
