@@ -5,9 +5,9 @@ My name is Dominika Bołtuć. I have a master's degree in Sports Management with
 
 ### Tech skills
   - Software Testing
+  - Writing test scenarios
   - Creating Test Cases
   - Raporting bugs
-  - Writing test scenarios
   - SQL
   - API Testing
   - HTML/CSS
