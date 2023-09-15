@@ -1,9 +1,9 @@
 # Portfolio
 
-## About Me
+### About Me
 My name is Dominika Bołtuć. I have a master's degree in Sports Management with a specialization in Safety of Mass Events. I graduated from the Academy of Physical Education and Sport in Gdańsk, Poland. My goal is to develop testing knowlage and technical skills. I'm eager to learn new things and I would like to expand my knowledge in the field. On this site I would like to share my all gained experience from personal studies and researches I've made.
 
-## Tech skills
+### Tech skills
   - DevTools
   - SQL
   - Software testing
@@ -14,7 +14,7 @@ My name is Dominika Bołtuć. I have a master's degree in Sports Management with
   - HTML/CSS
   - API Testing
 
-## Tools I use
+### Tools I use
   - [GitHub](https://github.com) - Platform for code hosting
   - [Postman](https://www.postman.com/) - Tool for REST API
   - [Jira](https://www.atlassian.com/software/jira0), [Trello](https://trello.com/) - Issue tracking and project management tool for developers
@@ -26,7 +26,7 @@ My name is Dominika Bołtuć. I have a master's degree in Sports Management with
   - [draw.io](https://app.diagrams.net/) - Flowchart maker and online diagram software
   - [BlazeMeter](https://www.blazemeter.com/) - Load testing platform
 
-## Courses
+### Courses
   - [Quality Assurance Engineer](https://1drv.ms/b/s!AjAZA9Jy0BEdg4EZCWc8Jw4SD3L5Ig?e=SwnfqN)
   - Maraton QA, GoIT Polska
   - PYTON OD PODSTAW - REST API, Udemy
@@ -34,19 +34,19 @@ My name is Dominika Bołtuć. I have a master's degree in Sports Management with
   - SQL Online Web Tutorial, w3Schools
   - Maraton Kodowania, GoIT Polska
 
-## Technical books I read
+### Technical books I read
   - [Testowanie oprogramowania. Podręcznik dla początkujących](https://helion.pl/ksiazki/testowanie-oprogramowania-podrecznik-dla-poczatkujacych-rafal-pawlak,szteop.htm?_ga=NC.1384359092-1587824560&abpar1=desktop&abpar2=236563.1746781.&abpcid=41&abpid=11&bb_coid=3069019&bb_id=3#format/d)
   - [Zawód Tester](https://lubimyczytac.pl/ksiazka/291227/zawod-tester)
   - [Testowanie oprogramowania](https://helion.pl/ksiazki/testowanie-oprogramowania-podrecznik-dla-poczatkujacych-rafal-pawlak,szteop.htm?_ga=NC.1384359092-1587824560&abpar1=desktop&abpar2=236563.1746781.&abpcid=41&abpid=11&bb_coid=3069019&bb_id=3#format/d)
   - [Certyfikowany Tester ISTQB. Poziom podstawowy](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispv.htm#format/d)
 
-## Blogs I read
+### Blogs I read
   - [testerzy.pl](https://testerzy.pl)
   - [testerka.pl](https://testerka.pl)
   - [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
   - [toniebug.pl](https://www.toniebug.pl/)
 
-## Facebook Groups for Testing Knowledge
+### Facebook Groups for Testing Knowledge
   - Girls Who Tests
   - Tester oprogramowania - wsparcie na starcie
   - Testowanie oprogramowania
