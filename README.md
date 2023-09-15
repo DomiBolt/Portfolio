@@ -14,8 +14,8 @@ My name is Dominika Bołtuć. I have a master's degree in Sports Management with
   - DevTools 
 
 ### Tools I use
-  - [TestRail](https://www.testrail.com) - Platform that helps with software testing processes
   - [GitHub](https://github.com) - Platform for code hosting
+  - [TestRail](https://www.testrail.com) - Platform that helps with software testing processes
   - [Postman](https://www.postman.com/) - Tool for REST API
   - [Jira](https://www.atlassian.com/software/jira0), [Trello](https://trello.com/) - Issue tracking and project management tool for developers
   - [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi?hl=pl) - Exploratory testing assistant for Chrome and Firefox
