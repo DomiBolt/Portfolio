@@ -17,11 +17,11 @@ My name is Dominika Bołtuć. I have a master's degree in Sports Management with
   1. For testing management (Test Planning, Creating Test Cases, Raporting Bugs):  [TestRail](https://www.testrail.com), [Jira](https://www.atlassian.com/software/jira0),  [Trello](https://trello.com/) and [TestLink](https://testlink.org)
   2. To create and manage the repository: [GitHub](https://github.com)
   3. For work with REST API: [Postman](https://www.postman.com/)
+  4. For database management: [DBeaver](https://dbeaver.io)
 
-  - [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi?hl=pl) - Exploratory testing assistant for Chrome and Firefox
+
   - [Xmind](https://www.xmind.net/), [Mind Meister](https://www.mindmeister.com/) - Mind mapping softwares
-  - [draw.io](https://app.diagrams.net/) - Flowchart maker and online diagram software
-  - [BlazeMeter](https://www.blazemeter.com/) - Load testing platform
+
 
 ### Courses
   - [Quality Assurance Engineer](https://1drv.ms/b/s!AjAZA9Jy0BEdg4EZCWc8Jw4SD3L5Ig?e=SwnfqN)
