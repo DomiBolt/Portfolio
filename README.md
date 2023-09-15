@@ -15,6 +15,7 @@ My name is Dominika Bołtuć. I have a master's degree in Sports Management with
 
 ### Tools I use
   1. For testing management:  [TestRail](https://www.testrail.com), [Jira](https://www.atlassian.com/software/jira0),  [Trello](https://trello.com/) and [TestLink](https://testlink.org)
+  2. To create and manage the repository: [GitHub](https://github.com)
   - [GitHub](https://github.com) - Platform for code hosting
   - [Postman](https://www.postman.com/) - Tool for REST API
 
