@@ -19,8 +19,6 @@ My name is Dominika Bołtuć. I have a master's degree in Sports Management with
   - [Postman](https://www.postman.com/) - Tool for REST API
   - [Jira](https://www.atlassian.com/software/jira0), [Trello](https://trello.com/) - Issue tracking and project management tool for developers
   - [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi?hl=pl) - Exploratory testing assistant for Chrome and Firefox
-  - [Mouse Recorder](https://www.mouserecorder.com/) - mouse and keyboard recording macro
-  - [xPath Finder](https://chrome.google.com/webstore/detail/xpath-finder/ihnknokegkbpmofmafnkoadfjkhlogph) - xPath finding tool
   - [Xmind](https://www.xmind.net/), [Mind Meister](https://www.mindmeister.com/) - Mind mapping softwares
   - [draw.io](https://app.diagrams.net/) - Flowchart maker and online diagram software
   - [BlazeMeter](https://www.blazemeter.com/) - Load testing platform
